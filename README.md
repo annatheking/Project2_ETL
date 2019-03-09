@@ -5,8 +5,6 @@ All tweets happened on September 7, 2018, which is days after Nike made its anno
 
 Some of the top entities of those tweets:
 #JustDoIt #Nike #ColinKaepernick #TakeaKnee
-😂 🤣 ✔ 🔥 ❤ 🏈 💯 💙 🇺🇸
-@Nike @Kaepernick7 @realDonaldTrump
 
 Data Source #1 = https://www.kaggle.com/eliasdabbas/5000-justdoit-tweets-dataset
 
