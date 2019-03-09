@@ -1,5 +1,13 @@
 # Project2_ETL
 
+This dataset contains 5,000 tweets that contain the hashtag #JustDoIt. 
+All tweets happened on September 7, 2018, which is days after Nike made its announcement to endorse Kaepernick.
+
+Some of the top entities of those tweets:
+#JustDoIt #Nike #ColinKaepernick #TakeaKnee
+😂 🤣 ✔ 🔥 ❤ 🏈 💯 💙 🇺🇸
+@Nike @Kaepernick7 @realDonaldTrump
+
 Data Source #1 = https://www.kaggle.com/eliasdabbas/5000-justdoit-tweets-dataset
 
 Data Source #1
